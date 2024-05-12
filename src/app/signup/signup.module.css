@@ -1,0 +1,10 @@
+.section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center;
+  background-image: url('/images/bgimage.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
